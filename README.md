@@ -1,6 +1,6 @@
 # Enora Library
 
-![Enora](img.jpeg)
+![Enora](img.jpg)
 
 The Enora library is an advanced interface designed for both users and AI agents to effortlessly convert natural language instructions into executable transactions on the Solana blockchain. Utilizing the OpenAI API, the library efficiently parses input and maps it to a robust set of transaction instructions, enabling seamless execution of blockchain operations. With its intuitive design, Enora facilitates diverse interactions, such as transferring SOL or managing tokens, simplifying these processes for both developers and AI systems. Its modular and scalable structure makes it an ideal tool for enhancing Solana-based transaction workflows, providing a user-friendly solution that bridges the gap between complex blockchain technology and accessible command execution.
 
